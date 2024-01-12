@@ -1,8 +1,9 @@
-<h1 align="center" > Fala parceiro, Bem vindo ao meu perfil 🤙 
-</h1>
+<h1 align="center"> Fala parceiro, Bem vindo ao meu perfil 🤙
+
+
 ---
-![gif)](https://github.com/LeilaFarias/LeilaFarias/assets/115854945/63e02012-92eb-4f24-8620-6458be83272a)
----
+![gif](https://github.com/LeilaFarias/LeilaFarias/assets/115854945/63e02012-92eb-4f24-8620-6458be83272a)
+
 
 <h1 align="center" > Sobre mim 
 </h1>
@@ -10,7 +11,7 @@
 <span style="font-family:Minecraft Fifty Solid; font-size:1em; color:#EE82EE">Estudante de Ciência da Computação na UFCG, tô em constante aprendizado e sempre buscando melhorar tanto nas minhas capacidades profissionais quanto nas pessoais. No tempo livre curto aproveitar um jogo ou um tempo de qualidade com quem eu amo.</span>
 
 <h1 align="center" > Conhecimentos + aprendendo ☕ 
-</h1>
+
 
 <div style="display: inline_block" align="center">
             <img align="center" alt="Python" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -25,4 +26,4 @@
 ‎ 
  
  ![Leila's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeilaFarias&show_icons=true&theme=radical) ‎ ‎ ‎ ‎ ‎ ‎  ‎‎ ‎![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeilaFarias&layout=compact&theme=radical)
-
+</h1>
