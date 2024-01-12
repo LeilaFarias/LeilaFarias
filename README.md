@@ -10,6 +10,7 @@
 
 <span style="font-family:Minecraft Fifty Solid; font-size:1em; color:#EE82EE">Estudante de Ciência da Computação na UFCG, tô em constante aprendizado e sempre buscando melhorar tanto nas minhas capacidades profissionais quanto nas pessoais. No tempo livre curto aproveitar um jogo ou um tempo de qualidade com quem eu amo.</span>
 
+---
 <h1 align="center" > Conhecimentos + aprendendo ☕ 
 
 
