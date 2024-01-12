@@ -1,7 +1,7 @@
 <h1 align="center" > Fala parceiro, Bem vindo ao meu perfil 🤙 
 </h1>
 ---
-![one-piece-happy (1)](https://github.com/LeilaFarias/LeilaFarias/assets/115854945/63e02012-92eb-4f24-8620-6458be83272a)
+![gif)](https://github.com/LeilaFarias/LeilaFarias/assets/115854945/63e02012-92eb-4f24-8620-6458be83272a)
 ---
 
 <h1 align="center" > Sobre mim 
