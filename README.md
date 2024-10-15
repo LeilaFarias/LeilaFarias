@@ -1,4 +1,4 @@
-<h1 align="center"> Fala parceiro, Bem vindo ao meu perfil 🤙
+<h1 align="center"> Bem vindo(a) ao meu perfil 🤙
 
 
 ---
